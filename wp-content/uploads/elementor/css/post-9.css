@@ -291,7 +291,7 @@
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    height: 120vh;
+    height: 100%;
     width: 100vw;
 }
 
@@ -338,7 +338,7 @@
     border-width: 4px 0px 4px 0px;
     border-color: var(--e-global-color-753bb0f);
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-    padding: 5em 0em 5em 0em;
+    padding: 3em 0em 3em 0em;
 }
 
 .elementor-9 .elementor-element.elementor-element-77688f3>.elementor-background-overlay {
