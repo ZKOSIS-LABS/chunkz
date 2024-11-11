@@ -52,7 +52,7 @@
 
 .elementor-9 .elementor-element.elementor-element-3c91b63:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-9 .elementor-element.elementor-element-3c91b63>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: var(--e-global-color-primary);
+    background-color: #07B2E3;
 }
 
 .elementor-9 .elementor-element.elementor-element-3c91b63>.elementor-element-populated {
@@ -177,7 +177,7 @@
 
 .elementor-9 .elementor-element.elementor-element-e14b125 .elementskit-menu-hamburger {
     float: right;
-    background-color: var(--e-global-color-d0751d4);
+    background-color: black;
     border-style: solid;
     border-color: var(--e-global-color-753bb0f);
 }
@@ -203,7 +203,7 @@
 }
 
 .elementor-9 .elementor-element.elementor-element-e14b125 .elementskit-menu-close {
-    background-color: var(--e-global-color-d0751d4);
+    background-color: black;
     border-style: solid;
     border-color: var(--e-global-color-753bb0f);
     color: var(--e-global-color-753bb0f);
