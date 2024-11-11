@@ -287,7 +287,7 @@
 
 .elementor-9 .elementor-element.elementor-element-086d3bc:not(.elementor-motion-effects-element-type-background),
 .elementor-9 .elementor-element.elementor-element-086d3bc>.elementor-motion-effects-container>.elementor-motion-effects-layer {
- 
+ background-image: url(/bg.png);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -460,6 +460,7 @@
 
 .elementor-9 .elementor-element.elementor-element-5eea800 {
     padding: 5em 3em 5em 3em;
+    background-image: url(/bg.png);
 }
 
 .elementor-9 .elementor-element.elementor-element-e2514cd img {
